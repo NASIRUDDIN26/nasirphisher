@@ -62,7 +62,7 @@ $ git clone https://github.com/NASIRUDDIN26/nasirphisher.git
 
 ```
 
-- Change to cloned directory and run `zphisher.sh` -
+- Change to cloned directory and run `nasirphisher` -
 
 ```
 
